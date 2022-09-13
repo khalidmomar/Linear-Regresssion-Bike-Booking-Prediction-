@@ -14,7 +14,13 @@ A US bike-sharing provider BoomBikes has recently suffered considerable dips in 
 
 ## Business Objective
 Build a model to identify the features thad would affect the demand based on the new market after COVID.The managment needs to understand the demand dynamics of a new market. How exactly the demands vary with different features?
-
+## Libraries Used:
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- statsmodels
+- sklearn
 ## Variables:
 
 Data provided: day.csv have the following fields:
