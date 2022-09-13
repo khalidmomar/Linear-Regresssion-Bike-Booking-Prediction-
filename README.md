@@ -1,6 +1,8 @@
 # Predicting-Bike-Booking-Count-for-BoomBikes-US-Using-Multiple-Linear-Regression
 Building a Linear Regression Model which is built to predict the bike booking counts based on different features.
 
+![alt text]([http://url/to/img.png](http://www.boombikes.com/))
+
 ## Introduction:
 
 
