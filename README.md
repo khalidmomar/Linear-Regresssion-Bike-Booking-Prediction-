@@ -2,8 +2,6 @@
 Building a Linear Regression Model which is built to predict the bike booking counts based on different features.
 
 ![Screenshot](boom.png)
-## Introduction:
-
 
 ## Describing Bike Sharing Systems 
 Bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
@@ -58,6 +56,7 @@ We are trying to predict count variable i.e. number of total bookings which will
 ## Findings:
 Equation representing best fit line is:
 We can see that the equation of our best fitted line is:
+![Screenshot](boom.png)
 $ cnt = 0.55  \times  temp + 0.23  \times  yr + 0.13 \times winter + 0.1 \times Sept + 0.09 \times summer + 0.07 \times Sat+ 0.06 \times workingday - 0.29 \times Light_Snow_Rain - 0.16 \times windspeed - 0.08 \times Mist_Clouds $
 - Demand depends on the following variables:
 -- temp , yr ,winter, sept, summer, Sat ,Workingday ,Light_snow_Rain weather,windspeed , Mist_Clouds
